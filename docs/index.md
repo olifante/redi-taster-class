@@ -1,1 +1,4 @@
+---
+title: Hello!
+---
 Hello world!
